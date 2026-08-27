@@ -1,10 +1,34 @@
 # 牛客网面经合集
 
-> 按「公司 / 岗位」收录牛客网专栏中的面经（面试经验问答），当前覆盖：字节跳动（测试开发岗、大模型算法岗、算法岗、产品经理岗）。各岗位内按面经编号从小到大排列，标题与原文链接见对应小节，持续更新中。
+> 按「公司 / 岗位」收录牛客网专栏中的面经（面试经验问答），当前覆盖：字节跳动（后端开发岗、测试开发岗、AI Agent开发岗、大模型算法岗、算法岗、产品经理岗）。各岗位内按面经编号从小到大排列，标题与原文链接见对应小节，持续更新中。
 >
 > 数据来源：牛客网「专栏」（作者：林小白zii）。本文档仅收录文章标题与原文链接，全部文章版权归原作者与平台所有。
 
 ### 字节跳动
+
+#### 后端开发岗
+
+[字节面经-字节跳动后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2d61b65e4ab043068d6b8a6abd0a1fcd)
+
+[字节面经-字节跳动后端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=92166c7523e24335971981c81f795bb5)
+
+[字节面经-字节跳动后端开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=34e0158414d247f1bba5224523fd4e2c)
+
+[字节面经-字节跳动后端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=bd91f633e3f44fedb7e95fdfe95180d2)
+
+[字节面经-字节跳动后端开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4b180441dd404980bd3a62eaac71120c)
+
+[字节面经-字节跳动后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ca7af77eb3cc4456baa298206f4be18f)
+
+[字节面经-字节跳动后端开发岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b49715fe60c54685a6620ea547732725)
+
+[字节面经-字节跳动后端开发岗面经-08](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=87ea575022d3439295df5bc9221294ec)
+
+[字节面经-字节跳动后端开发岗面经-09](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2d243f152802457996923c269a22210b)
+
+[字节面经-字节跳动后端开发岗面经-10](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6e5c0b1bdb1d46b1aec45b91b5054605)
+
+[字节面经-字节跳动后端开发岗面经-11](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=913273d74a2f41519084437595a3de7f)
 
 #### 测试开发岗
 
@@ -37,6 +61,14 @@
 [字节面经-字节跳动测试开发岗面经-14](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c8ea94d72fbd46e3bd7889fec1b0c56a)
 
 [字节面经-字节跳动测试开发岗面经-15](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=941a92a2abe44f1898e3e361a0a27953)
+
+#### AI Agent开发岗
+
+[字节面经-字节跳动AI Agent开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b5fdefe811354ca4b992f8e8345f55ce)
+
+[字节面经-字节跳动AI Agent开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=527ba5b7adf148eeae8b111d1a89f04b)
+
+[字节面经-字节跳动AI Agent开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=1754e38612f940bab799a477392ec53f)
 
 #### 大模型算法岗
 
