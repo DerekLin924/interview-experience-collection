@@ -5,11 +5,11 @@
 ============================
 
 功能：抓取牛客网指定专栏里的全部面经文章（标题 + uuid），按「公司 -> 岗位」归类，
-     各岗位内按面经编号从小到大排序，重新生成 README.md 的链接索引。
+     各岗位内按面经编号从小到大排序，重新生成 README.md 及各公司子目录下的 README.md 链接索引。
 
 用法：
     python3 sync_mianjing.py                 # 只检测并打印，不修改文件（dry-run，默认）
-    python3 sync_mianjing.py --apply         # 检测 + 重写 README.md
+    python3 sync_mianjing.py --apply         # 检测 + 重写 README.md 及各公司子目录 README
     python3 sync_mianjing.py --columns 04ypb2,XXXX   # 指定要监控的专栏
 
 依赖：仅 Python3 标准库，无第三方依赖。
@@ -196,6 +196,30 @@ def build_readme(articles):
     return "\n".join(lines).rstrip() + "\n"
 
 
+def build_company_readme(company, articles):
+    """生成单个公司子目录下的 README.md 全文（仅该公司，按岗位分组）。"""
+    company_articles = [a for a in articles if a[0] == company]
+    lines = [f"# {company} 面经", ""]
+    lines.append(
+        f"> 收录牛客网专栏中「{company}」相关面经（面试经验问答）的标题与原文链接，"
+        "按岗位分组、各岗位内按面经编号从小到大排列。数据来源：牛客网「专栏」"
+        "（作者：林小白zii），本文档仅收录标题与链接，全部文章版权归原作者与平台所有。"
+    )
+    lines.append("")
+    positions = [p for p, _ in POSITION_KEYWORDS] + [POSITION_OTHER]
+    for position in positions:
+        pos_articles = [a for a in company_articles if a[1] == position]
+        if not pos_articles:
+            continue
+        lines.append(f"### {position}")
+        lines.append("")
+        for _c, _p, _s, title, uuid, cid in sorted(pos_articles, key=sort_key):
+            lines.append(make_link(cid, title, uuid))
+            lines.append("")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
 # ======================================================================
 # 主流程
 # ======================================================================
@@ -250,6 +274,17 @@ def main():
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(readme)
         print(f"    已重写 {README_PATH}（共 {len(readme.splitlines())} 行）")
+        # 按公司拆分，写入各公司子目录的 README.md
+        for company, _ in COMPANY_KEYWORDS:
+            company_articles = [a for a in articles if a[0] == company]
+            if not company_articles:
+                continue
+            company_dir = os.path.join(PROJECT_DIR, company)
+            os.makedirs(company_dir, exist_ok=True)
+            company_readme_path = os.path.join(company_dir, "README.md")
+            with open(company_readme_path, "w", encoding="utf-8") as f:
+                f.write(build_company_readme(company, articles))
+            print(f"    已写入 {company_readme_path}（{len(company_articles)} 篇）")
     else:
         print("    （dry-run）预览前 40 行：")
         for line in readme.splitlines()[:40]:
