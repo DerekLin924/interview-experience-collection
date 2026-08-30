@@ -4,3 +4,7 @@
 # Python
 __pycache__/
 *.pyc
+
+# 本地同步脚本与指南（不进仓库）
+sync_nowcoder.py
+同步指南.md
