@@ -153,10 +153,6 @@ def sort_key(item):
 # ======================================================================
 
 README_HEADER = """# 牛客网面经合集
-
-> 按「公司 / 岗位」收录牛客网专栏中的面经（面试经验问答），当前覆盖：字节跳动（后端开发岗、测试开发岗、AI Agent开发岗、大模型算法岗、算法岗、产品经理岗、客户端研发岗、前端开发岗）、阿里（后端开发岗、大模型算法岗、算法岗、前端开发岗、数据开发与数据分析岗）、腾讯（后端开发岗）。各岗位内按面经编号从小到大排列，标题与原文链接见对应小节，持续更新中。
->
-> 数据来源：牛客网「专栏」（作者：林小白zii）。本文档仅收录文章标题与原文链接，全部文章版权归原作者与平台所有。
 """
 
 
@@ -200,12 +196,6 @@ def build_company_readme(company, articles):
     """生成单个公司子目录下的 README.md 全文（仅该公司，按岗位分组）。"""
     company_articles = [a for a in articles if a[0] == company]
     lines = [f"# {company} 面经", ""]
-    lines.append(
-        f"> 收录牛客网专栏中「{company}」相关面经（面试经验问答）的标题与原文链接，"
-        "按岗位分组、各岗位内按面经编号从小到大排列。数据来源：牛客网「专栏」"
-        "（作者：林小白zii），本文档仅收录标题与链接，全部文章版权归原作者与平台所有。"
-    )
-    lines.append("")
     positions = [p for p, _ in POSITION_KEYWORDS] + [POSITION_OTHER]
     for position in positions:
         pos_articles = [a for a in company_articles if a[1] == position]
