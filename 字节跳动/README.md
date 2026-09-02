@@ -120,3 +120,29 @@
 [字节面经-字节跳动前端开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d0900f69fcb5490190e3f72beb6d3954)
 
 [字节面经-字节跳动前端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2d2bbd5c0fe3419b8ac67f9b2d459403)
+
+
+### 数据开发与数据分析岗
+
+[字节面经-字节数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7fdf9e5393b646a890e7a236ee3d5c8d)
+
+[字节面经-字节数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f3e6128248aa41b2a5ae0ab931b5f9ff)
+
+[字节面经-字节数据开发与数据分析岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=cc6d058fb655495796ce195f6661716c)
+
+
+### 其他
+
+[字节面经-硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=64416065b9c54654a7f1cf5ed2a787a2)
+
+[字节面经-游戏客户端岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d5840b0c182b41808106e6f1779aaa20)
+
+[字节面经-字节运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6a21b78ddee2443a860272c9205ea7f7)
+
+[字节面经-字节运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=62df5a48de6347e3ba9a4035fa8aad19)
+
+[字节面经-字节运营岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e98821a609c14a54949562dd643bb93a)
+
+[字节面经-字节运营岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7f91a26f37df4b83960d4a66d7a3fc5e)
+
+[字节面经-字节运营岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54f488e591164f0595a20a5e487a5b5a)
