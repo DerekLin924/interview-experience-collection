@@ -97,7 +97,13 @@
 
 [字节面经-字节跳动产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=917becd22028453e826732782eae2c95)
 
+[字节面经-字节AI产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e590cf0d85594fb4a5b3784402ce39d0)
+
 [字节面经-字节跳动产品经理岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7de0a3b178ed452f82d3d1e556cae251)
+
+[字节面经-字节AI产品经理岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=3bd305378aec45948e761a29f03ec73c)
+
+[字节面经-字节AI产品经理岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8b990d5b86574191bde5cf40026c186d)
 
 
 ### 客户端研发岗
@@ -138,6 +144,8 @@
 [字节面经-游戏客户端岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d5840b0c182b41808106e6f1779aaa20)
 
 [字节面经-字节运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6a21b78ddee2443a860272c9205ea7f7)
+
+[字节面经-字节硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=40cd6a47738141d1976dcf75c373d692)
 
 [字节面经-字节运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=62df5a48de6347e3ba9a4035fa8aad19)
 

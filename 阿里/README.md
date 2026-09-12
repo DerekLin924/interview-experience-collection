@@ -50,6 +50,11 @@
 [阿里面经-阿里算法岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ce7035fcb7724f2ca411f008d80d43e5)
 
 
+### 产品经理岗
+
+[阿里面经-阿里产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=739a1f8e0d2746d6983fcc4307cf0067)
+
+
 ### 前端开发岗
 
 [阿里面经-阿里前端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b99c347190634d86be18874892250f44)
@@ -62,3 +67,12 @@
 [阿里面经-阿里数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ebe6588559724924a874f974ad5f4c32)
 
 [阿里面经-阿里数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ea930feda67945de97191309b1f92495)
+
+
+### 其他
+
+[阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)
+
+[阿里面经-阿里运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2b8b14c93a3a4e0dbcce73a3a10c3abc)
+
+[阿里面经-阿里运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7325e9ee2fcb4953af3dbd72b574429c)
