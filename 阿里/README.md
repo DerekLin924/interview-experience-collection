@@ -69,10 +69,13 @@
 [阿里面经-阿里数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ea930feda67945de97191309b1f92495)
 
 
-### 其他
-
-[阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)
+### 运营岗
 
 [阿里面经-阿里运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2b8b14c93a3a4e0dbcce73a3a10c3abc)
 
 [阿里面经-阿里运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7325e9ee2fcb4953af3dbd72b574429c)
+
+
+### 其他
+
+[阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)

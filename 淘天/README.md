@@ -34,6 +34,6 @@
 [淘天面经 淘天集团数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e88f1c0d8acc420abc717c846a75383a)
 
 
-### 其他
+### 运营岗
 
 [淘天面经 淘天集团运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=89c86cf76d7c49a59ccab301684e0008)

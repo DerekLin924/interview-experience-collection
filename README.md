@@ -128,15 +128,9 @@
 
 [字节面经-字节数据开发与数据分析岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=cc6d058fb655495796ce195f6661716c)
 
-#### 其他
-
-[字节面经-硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=64416065b9c54654a7f1cf5ed2a787a2)
-
-[字节面经-游戏客户端岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d5840b0c182b41808106e6f1779aaa20)
+#### 运营岗
 
 [字节面经-字节运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6a21b78ddee2443a860272c9205ea7f7)
-
-[字节面经-字节硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=40cd6a47738141d1976dcf75c373d692)
 
 [字节面经-字节运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=62df5a48de6347e3ba9a4035fa8aad19)
 
@@ -145,6 +139,14 @@
 [字节面经-字节运营岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7f91a26f37df4b83960d4a66d7a3fc5e)
 
 [字节面经-字节运营岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54f488e591164f0595a20a5e487a5b5a)
+
+#### 其他
+
+[字节面经-硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=64416065b9c54654a7f1cf5ed2a787a2)
+
+[字节面经-游戏客户端岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d5840b0c182b41808106e6f1779aaa20)
+
+[字节面经-字节硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=40cd6a47738141d1976dcf75c373d692)
 
 
 ### 阿里
@@ -211,13 +213,15 @@
 
 [阿里面经-阿里数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ea930feda67945de97191309b1f92495)
 
-#### 其他
-
-[阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)
+#### 运营岗
 
 [阿里面经-阿里运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2b8b14c93a3a4e0dbcce73a3a10c3abc)
 
 [阿里面经-阿里运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7325e9ee2fcb4953af3dbd72b574429c)
+
+#### 其他
+
+[阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)
 
 
 ### 腾讯
@@ -448,7 +452,7 @@
 
 [淘天面经 淘天集团数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e88f1c0d8acc420abc717c846a75383a)
 
-#### 其他
+#### 运营岗
 
 [淘天面经 淘天集团运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=89c86cf76d7c49a59ccab301684e0008)
 
@@ -489,7 +493,7 @@
 
 [拼多多面经 拼多多数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=67a3fade3f704245ad6fb944347e47b9)
 
-#### 其他
+#### 运营岗
 
 [拼多多面经 拼多多运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f576fb1adc54434ba0583c2c8d9371db)
 
@@ -504,6 +508,10 @@
 
 [米哈游面经 米哈游后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6ca7e1eec3eb41df9299bbeb2d243146)
 
+#### AI Agent开发岗
+
+[米哈游面经 米哈游AI Agent开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=780545c933884468aeb0d519497d1c95)
+
 #### 大模型算法岗
 
 [米哈游面经 米哈游大模型算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e2a874bb9daf4c56aa1d7cb906b663f3)
@@ -511,3 +519,46 @@
 #### 产品经理岗
 
 [米哈游面经 米哈游产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d575b938ce21445c91d1c9e32ab1c2ff)
+
+#### 客户端研发岗
+
+[米哈游面经 米哈游客户端研发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4f9d96da063b408bb600c073226052d7)
+
+#### 前端开发岗
+
+[米哈游面经  米哈游前端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=174d2a78ac0249b98d617a63f4612a59)
+
+#### 数据开发与数据分析岗
+
+[米哈游面经 米哈游数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=33ac89fe6325442fb2dd87be74c38606)
+
+
+### 携程
+
+#### 后端开发岗
+
+[携程面经 携程后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=009c9a066a494b5bbecebdbf14627a5b)
+
+[携程面经 携程后端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=46b26dfbef41406180df6b64a97016ae)
+
+[携程面经 携程后端开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=42e33e6fbd724c519f78884562a7893b)
+
+#### 大模型算法岗
+
+[携程面经 携程大模型算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2ad550380a934c079a718cc8e16895b9)
+
+#### 算法岗
+
+[携程面经 携程算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=932e56accba64cad8a0918bca4fab4a0)
+
+#### 产品经理岗
+
+[携程面经 携程产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=de32ab2a97a3480a8851e63a6e7272dd)
+
+#### 数据开发与数据分析岗
+
+[携程面经 携程数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f80ee4502cbc4a0a84f23174e3719006)
+
+#### 运营岗
+
+[携程面经  携程运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f951b3716bb44cc1a2b7fd588ab9dbbd)

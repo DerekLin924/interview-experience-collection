@@ -40,7 +40,7 @@
 [拼多多面经 拼多多数据开发与数据分析岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=67a3fade3f704245ad6fb944347e47b9)
 
 
-### 其他
+### 运营岗
 
 [拼多多面经 拼多多运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f576fb1adc54434ba0583c2c8d9371db)
 
