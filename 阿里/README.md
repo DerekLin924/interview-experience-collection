@@ -12,10 +12,14 @@
 
 [阿里面经-阿里后端开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=67eceea72c1143fcb17034f5dc4f4657)
 
+[阿里面经 阿里巴巴集团后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=da68cd91088a4affbee82e663cdf37bf)
+
 
 ### AI Agent开发岗
 
 [阿里面经-阿里AI Agent开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7ad76073dae64bdd93ef225a17bdbe46)
+
+[阿里国际面经 阿里国际AI Agent开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=025cccb455d349bb8b8ff3e1d3d4345a)
 
 [阿里面经-阿里Agent开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a20552e73e03494c82cd8f81ee4d0eb7)
 
@@ -24,6 +28,10 @@
 [阿里面经-阿里AI Agent开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fbd90c6ae9394c53bf366f789a114425)
 
 [阿里面经-阿里AI Agent开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=06f2eb83d1e64233be17e92c1a7b2f74)
+
+[阿里云面经 阿里云AI Agent开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d9e458e51cf743d4adb00e396fae6f3c)
+
+[阿里面经 阿里巴巴集团AI Agent开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=1fd62db924164001b9b1e45e2e30b655)
 
 
 ### 大模型算法岗

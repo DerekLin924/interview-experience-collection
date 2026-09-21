@@ -12,6 +12,8 @@
 
 [淘天面经 淘天集团AI Agent开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f84d9443f9124230a0fc7cbeb8c2cfe6)
 
+[淘天面经 淘天 AI Agent开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f44c355bd1574d36961add2952ff1a3e)
+
 
 ### 算法岗
 

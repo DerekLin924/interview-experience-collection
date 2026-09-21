@@ -1,5 +1,16 @@
 # 百度 面经
 
+### 后端开发岗
+
+[百度面经 百度后端开发岗面经-10](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2af40a5dcab44b749ea22fea5a7279ea)
+
+[百度面经 百度后端开发岗面经-11](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e33d371317b04160a69ae021f1210b1b)
+
+[百度面经 百度后端开发岗面经-12](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=63419c235048418f9ceac73775305167)
+
+[百度面经 百度后端开发岗面经-13](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=0aebf70fc2004c128d54cb235cf18a4f)
+
+
 ### 测试开发岗
 
 [百度面经-百度测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2872532d2b634c5b82d7cc72e0c918f6)
@@ -13,6 +24,8 @@
 [百度面经-百度测试开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8b0514f3bbfe4452aaebd44a197c90fb)
 
 [百度面经-百度测试开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4b0db78c23c2411da8e974422074c0f9)
+
+[百度面经 百度测试开发岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=36f4cb51b25345ccb5123c8f0e7d92dd)
 
 
 ### 大模型算法岗
@@ -28,6 +41,8 @@
 [百度大模型-百度大模型算法岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a05d683a3f3a4cc1a22e93f6a0420ccc)
 
 [百度面经-百度大模型算法岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=892d65e9204f442b8400e7ea9b0f5a81)
+
+[百度面经 百度大模型算法岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c9270b031eb74e00aed6fc6b55c300c8)
 
 
 ### 产品经理岗
