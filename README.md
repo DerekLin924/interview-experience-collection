@@ -246,6 +246,37 @@
 [阿里面经-阿里硬件芯片岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7cf22a2b9db41f7875a6415e8f20291)
 
 
+### 蚂蚁
+
+#### 后端开发岗
+
+[蚂蚁面经 蚂蚁集团后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7a743882a7ea4a9c815e2580350680e3)
+
+[蚂蚁面经 蚂蚁集团后端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=55686fc74d8b46f9a0a663e1ac2f3347)
+
+[蚂蚁面经 蚂蚁集团后端开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a14ed776ec064f158ee8627b68157915)
+
+[蚂蚁面经 蚂蚁集团后端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2096427d86744cc48102a992ae4d362c)
+
+[蚂蚁面经 蚂蚁集团后端开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=70e9283708ac4adca886dfc9121a3925)
+
+#### 测试开发岗
+
+[蚂蚁面经 蚂蚁集团测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4481e5f4095349dcac63de8499514e15)
+
+#### 大模型算法岗
+
+[蚂蚁面经 蚂蚁集团大模型算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=80e29ef577984e25bc9759c90c2f56fb)
+
+[蚂蚁面经 蚂蚁集团大模型算法岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8e076bcef8aa451097b4fe3051cedfe6)
+
+[蚂蚁面经 蚂蚁集团大模型算法岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7e7a6867e1f44bd5903fa267ef139292)
+
+[蚂蚁面经 蚂蚁集团大模型算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d8dba35990d04a2c8ab72e468b2bf428)
+
+[蚂蚁面经 蚂蚁集团大模型算法岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=49d6c16cbd29425fa2fe1831c3a99036)
+
+
 ### 腾讯
 
 #### 后端开发岗
@@ -335,11 +366,17 @@
 
 [华为面经-华为后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=bda0f47ceffb4502bfc342953788688f)
 
+[华为面经 华为后端开发岗面经-14](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=da613aa1cfaa4fa98ae13e88bdd4ee20)
+
 #### 测试开发岗
 
 [华为面经-华为测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=955c7d31a8374178a04f765da35538b4)
 
 [华为面经-华为测试开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=45d33442c8124c07aceb68a6b33b18ca)
+
+#### 大模型算法岗
+
+[华为面经 华为大模型算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a84d12fbba554bfd8e925e50879181da)
 
 #### 产品经理岗
 
@@ -374,6 +411,12 @@
 
 [百度面经 百度测试开发岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=36f4cb51b25345ccb5123c8f0e7d92dd)
 
+#### AI Agent开发岗
+
+[百度面经 百度AI Agent开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=50aec8b8fca64dfcab672c7f7bf54f97)
+
+[百度面经 百度AI Agent开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6a4d90b9714646ae834190a8c99ade21)
+
 #### 大模型算法岗
 
 [百度面经-百度大模型算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=3fd9b21ce0914a90a5b3dce398763717)
@@ -390,11 +433,19 @@
 
 [百度面经 百度大模型算法岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c9270b031eb74e00aed6fc6b55c300c8)
 
+#### 算法岗
+
+[百度面经 百度算法岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4a8bdbf30b9e4f60a2309574d8dab121)
+
 #### 产品经理岗
 
 [百度面经-百度产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=bb1a8dd3b2f3441cb55268a06f873380)
 
 [百度面经-百度产品经理岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=12994d7579ea4f6c96092ec72ef1f64a)
+
+#### 前端开发岗
+
+[百度面经 百度前端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7d8417578cfb489ca6c36cedc663d656)
 
 
 ### 美团
@@ -465,6 +516,14 @@
 
 [美团面经-美团数据开发与数据分析岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=9ea767a59ab24b208da3b68802a52c53)
 
+#### 运营岗
+
+[美团面经 美团运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8ed65c22786e4911a8cfddacb8eb9a04)
+
+[美团面经 美团运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2e5c2813f2f6468085a70a2b03a7b0ac)
+
+[美团面经 美团运营岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ebd1ef534b854830bdc6bf7b4e4b5959)
+
 
 ### 淘天
 
@@ -518,6 +577,8 @@
 [拼多多面经 拼多多后端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=3c53d499b695461f8c453fef7960811f)
 
 [拼多多面经 拼多多后端开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e8ad21717002486f80d8e2453665dad6)
+
+[拼多多面经 拼多多后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d11b06ff845947b5af24095cd1f21ff8)
 
 #### AI Agent开发岗
 

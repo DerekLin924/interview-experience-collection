@@ -68,3 +68,12 @@
 [美团面经-美团数据开发与数据分析岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=95aa5b0bda48440a82da5597934eaaea)
 
 [美团面经-美团数据开发与数据分析岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=9ea767a59ab24b208da3b68802a52c53)
+
+
+### 运营岗
+
+[美团面经 美团运营岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8ed65c22786e4911a8cfddacb8eb9a04)
+
+[美团面经 美团运营岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2e5c2813f2f6468085a70a2b03a7b0ac)
+
+[美团面经 美团运营岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ebd1ef534b854830bdc6bf7b4e4b5959)

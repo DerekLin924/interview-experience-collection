@@ -12,6 +12,8 @@
 
 [拼多多面经 拼多多后端开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e8ad21717002486f80d8e2453665dad6)
 
+[拼多多面经 拼多多后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=d11b06ff845947b5af24095cd1f21ff8)
+
 
 ### AI Agent开发岗
 
