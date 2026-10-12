@@ -701,6 +701,18 @@
 
 [小红书面经 小红书产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c57e858209c247538249c0e6986a0145)
 
+#### 客户端研发岗
+
+[小红书面经 小红书客户端研发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b485bfb6b1af4f878710efc45e843bb2)
+
+#### 前端开发岗
+
+[小红书面经 小红书前端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=10aefa15a547430b975eff86a6a79e9b)
+
+[小红书面经 小红书前端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fc38326e567d423d8c569b3fe376f41d)
+
+[小红书面经 小红书前端开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=dcf28423c18744da9d2d3906423ddb3b)
+
 
 ### 京东
 
