@@ -34,6 +34,12 @@
 
 [字节面经 字节跳动后端开发岗面经-16](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=cc23d711f8984346b963831f128f8681)
 
+[字节面经 字节跳动后端开发岗面经-17](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e35aad129ebe4ea09d492822b6ca3e5c)
+
+[字节面经 字节跳动后端开发岗面经-18](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b693df0e61c04710a89fc0cd6185a525)
+
+[字节面经 字节跳动后端开发岗面经-19](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a71f7696cbc74a8ca5bce92eaaa9d315)
+
 
 ### 测试开发岗
 
@@ -81,6 +87,8 @@
 [字节面经 字节跳动AI Agent开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c1fac18d7396471ba73db26f6110702a)
 
 [字节面经 字节跳动AI Agent开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=83e3d15f42f84df2a0f2d057d48fdb88)
+
+[字节面经 字节跳动AI Agent开发岗面经-08](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54f1a98129b84ada9c72bd341da3270e)
 
 
 ### 大模型算法岗
@@ -141,6 +149,8 @@
 
 [字节面经-字节跳动前端开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2d2bbd5c0fe3419b8ac67f9b2d459403)
 
+[字节面经  字节跳动前端开发岗面经-08](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=047cf643dd2e40c8887076d4ba0998a3)
+
 
 ### 数据开发与数据分析岗
 
@@ -149,6 +159,8 @@
 [字节面经-字节数据开发与数据分析岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=f3e6128248aa41b2a5ae0ab931b5f9ff)
 
 [字节面经-字节数据开发与数据分析岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=cc6d058fb655495796ce195f6661716c)
+
+[字节面经 字节跳动数据开发与数据分析岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=08c1d1956ac443aa86835a8260461a21)
 
 
 ### 运营岗
@@ -162,6 +174,8 @@
 [字节面经-字节运营岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7f91a26f37df4b83960d4a66d7a3fc5e)
 
 [字节面经-字节运营岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54f488e591164f0595a20a5e487a5b5a)
+
+[字节面经 字节跳动运营岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b53b558022c64c1eb117d0027b852c09)
 
 
 ### 其他
