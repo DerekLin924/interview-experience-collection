@@ -86,6 +86,8 @@
 
 [字节面经 字节跳动AI Agent开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=83e3d15f42f84df2a0f2d057d48fdb88)
 
+[字节面经 字节跳动AI Agent开发岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a77d777e10ae40aa8a6b9fcaaaae0d65)
+
 [字节面经 字节跳动AI Agent开发岗面经-08](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54f1a98129b84ada9c72bd341da3270e)
 
 #### 大模型算法岗
@@ -99,6 +101,8 @@
 [字节面经-字节跳动大模型算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2f4e9ee53b7b44c4a5b35a8f2518632b)
 
 [字节面经-字节跳动大模型算法岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8ae24fe1dc2f442fb321fa2679ef998d)
+
+[字节面经 字节跳动大模型算法岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=aa98fcd709f24457ba2813608754889f)
 
 #### 算法岗
 
@@ -327,6 +331,10 @@
 
 [腾讯面经 腾讯后端开发岗面经-16](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c6f6ab84a0014659bfdc70c258a3d3fd)
 
+[腾讯面经 腾讯后端开发岗面经-17](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=63eabf43be4a469db524053327150319)
+
+[腾讯面经 腾讯后端开发岗面经-18](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=81d31c5cece74cb49f96e42db8ff3c1d)
+
 #### 测试开发岗
 
 [腾讯面经-腾讯测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c7594d65247449289be33197d15789b4)
@@ -334,6 +342,8 @@
 [腾讯音乐面经-腾讯音乐测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ffd4de7494654492a71f1a56267ea78c)
 
 [腾讯面经-腾讯测试开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ae4749a92188497a8ea8a26841f78e8f)
+
+[腾讯面经 腾讯测试开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b7b6c7a8b180411282a20032d505fe2a)
 
 #### AI Agent开发岗
 
@@ -345,11 +355,15 @@
 
 [腾讯面经-腾讯大模型算法岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fcaf128ae56444d8aa16314164b1fb55)
 
+[腾讯面经 腾讯大模型算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ebff828a75be492f99605e8299123f71)
+
 #### 算法岗
 
 [腾讯音乐面经-腾讯音乐算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=5740add753c4487297920a50fa7d9e20)
 
 [腾讯面经 腾讯算法岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fcd3b93af53c439186c787c58b1626ac)
+
+[腾讯面经 腾讯算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=68d614c388044b4fabcf7ee4fa9c43b2)
 
 #### 产品经理岗
 
@@ -382,6 +396,8 @@
 
 [华为面经 华为后端开发岗面经-14](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=da613aa1cfaa4fa98ae13e88bdd4ee20)
 
+[华为面经 华为后端开发岗面经-15](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6938208b47994e6bb18f873c2f409360)
+
 #### 测试开发岗
 
 [华为面经-华为测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=955c7d31a8374178a04f765da35538b4)
@@ -395,6 +411,10 @@
 #### 产品经理岗
 
 [华为面经-华为产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=228280a2adb4496b8942dce3df14e17d)
+
+#### 其他
+
+[华为面经 华为结构工程师岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=df5aba3b0f0441a7b2b113bae2b6d4bb)
 
 
 ### 百度
@@ -486,6 +506,10 @@
 
 [美团面经-美团后端开发岗面经-10](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6d89d8ae71b44ba0a6e648fb3b534365)
 
+[美团面经 美团后端开发岗面经-11](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6849aceebd764ecda44b269a64155ca8)
+
+[美团面经 美团后端开发岗面经-12](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4aa441594b664f5ca0b9e3943f9f2b04)
+
 #### 测试开发岗
 
 [美图面经-美团测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=a96ffd8898df483f90130b94aaf385a1)
@@ -497,6 +521,10 @@
 [美团面经-美团测试开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4cee655fbab0494fb634125199d39c8d)
 
 [美团面经-美团测试开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8ecb7c6a3a634400a0eb3e153ec1e592)
+
+#### AI Agent开发岗
+
+[美团面经 美团AI Agent开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2e26c213b23f4083b64b8547f9c3d103)
 
 #### 算法岗
 
@@ -631,6 +659,12 @@
 
 [米哈游面经 米哈游后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6ca7e1eec3eb41df9299bbeb2d243146)
 
+[米哈游面经 米哈游后端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=9548127a5be048878093faf4e0f0e5ae)
+
+#### 测试开发岗
+
+[米哈游面经 米哈游测试开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7fc55f1500c74229b2263eb7160e0353)
+
 #### AI Agent开发岗
 
 [米哈游面经 米哈游AI Agent开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=780545c933884468aeb0d519497d1c95)
@@ -763,6 +797,8 @@
 #### 后端开发岗
 
 [京东面经  京东后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8c1d3114c9cd4a248899e77277e623f7)
+
+[京东面经 京东后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=dda6250e4aba4c358c2221cc4ce09849)
 
 #### 测试开发岗
 

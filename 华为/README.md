@@ -6,6 +6,8 @@
 
 [华为面经 华为后端开发岗面经-14](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=da613aa1cfaa4fa98ae13e88bdd4ee20)
 
+[华为面经 华为后端开发岗面经-15](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6938208b47994e6bb18f873c2f409360)
+
 
 ### 测试开发岗
 
@@ -22,3 +24,8 @@
 ### 产品经理岗
 
 [华为面经-华为产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=228280a2adb4496b8942dce3df14e17d)
+
+
+### 其他
+
+[华为面经 华为结构工程师岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=df5aba3b0f0441a7b2b113bae2b6d4bb)

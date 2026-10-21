@@ -4,6 +4,8 @@
 
 [京东面经  京东后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8c1d3114c9cd4a248899e77277e623f7)
 
+[京东面经 京东后端开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=dda6250e4aba4c358c2221cc4ce09849)
+
 
 ### 测试开发岗
 

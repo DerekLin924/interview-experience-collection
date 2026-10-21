@@ -22,6 +22,10 @@
 
 [美团面经-美团后端开发岗面经-10](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6d89d8ae71b44ba0a6e648fb3b534365)
 
+[美团面经 美团后端开发岗面经-11](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6849aceebd764ecda44b269a64155ca8)
+
+[美团面经 美团后端开发岗面经-12](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4aa441594b664f5ca0b9e3943f9f2b04)
+
 
 ### 测试开发岗
 
@@ -34,6 +38,11 @@
 [美团面经-美团测试开发岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=4cee655fbab0494fb634125199d39c8d)
 
 [美团面经-美团测试开发岗面经-05](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=8ecb7c6a3a634400a0eb3e153ec1e592)
+
+
+### AI Agent开发岗
+
+[美团面经 美团AI Agent开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=2e26c213b23f4083b64b8547f9c3d103)
 
 
 ### 算法岗

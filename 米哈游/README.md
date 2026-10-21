@@ -4,6 +4,13 @@
 
 [米哈游面经 米哈游后端开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=6ca7e1eec3eb41df9299bbeb2d243146)
 
+[米哈游面经 米哈游后端开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=9548127a5be048878093faf4e0f0e5ae)
+
+
+### 测试开发岗
+
+[米哈游面经 米哈游测试开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=7fc55f1500c74229b2263eb7160e0353)
+
 
 ### AI Agent开发岗
 

@@ -34,6 +34,10 @@
 
 [腾讯面经 腾讯后端开发岗面经-16](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=c6f6ab84a0014659bfdc70c258a3d3fd)
 
+[腾讯面经 腾讯后端开发岗面经-17](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=63eabf43be4a469db524053327150319)
+
+[腾讯面经 腾讯后端开发岗面经-18](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=81d31c5cece74cb49f96e42db8ff3c1d)
+
 
 ### 测试开发岗
 
@@ -42,6 +46,8 @@
 [腾讯音乐面经-腾讯音乐测试开发岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ffd4de7494654492a71f1a56267ea78c)
 
 [腾讯面经-腾讯测试开发岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ae4749a92188497a8ea8a26841f78e8f)
+
+[腾讯面经 腾讯测试开发岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=b7b6c7a8b180411282a20032d505fe2a)
 
 
 ### AI Agent开发岗
@@ -55,12 +61,16 @@
 
 [腾讯面经-腾讯大模型算法岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fcaf128ae56444d8aa16314164b1fb55)
 
+[腾讯面经 腾讯大模型算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=ebff828a75be492f99605e8299123f71)
+
 
 ### 算法岗
 
 [腾讯音乐面经-腾讯音乐算法岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=5740add753c4487297920a50fa7d9e20)
 
 [腾讯面经 腾讯算法岗面经-03](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=fcd3b93af53c439186c787c58b1626ac)
+
+[腾讯面经 腾讯算法岗面经-04](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=68d614c388044b4fabcf7ee4fa9c43b2)
 
 
 ### 产品经理岗
