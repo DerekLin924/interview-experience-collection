@@ -852,3 +852,9 @@
 [快手面经 快手测试开发岗面经-06](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=e05fba71611545108dc330bb11fa271d)
 
 [快手面经 快手测试开发岗面经-07](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=30718041996840ccbd43414b2c44ffdb)
+
+#### 产品经理岗
+
+[快手面经 快手产品经理岗面经-01](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=54cd6c3c466849e6ae636e7051ecd6e5)
+
+[快手面经 快手产品经理岗面经-02](https://www.nowcoder.com/issue/tutorial?zhuanlanId=04ypb2&uuid=9ba70cafed2741d7b921ca5e55710b17)
